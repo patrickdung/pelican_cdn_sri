@@ -10,7 +10,7 @@ The code block would include the SRI hash.
 This save time for the users and is secure than just using the latest version
 of an application and do not use SRI.
 
-This plugin references sevaral Pelican plugins. So this plugin
+This plugin references several Pelican plugins. So this plugin
 would be in AGPLv3.
 
 - [Pelican Plugins](https://github.com/getpelican/pelican-plugins/)
