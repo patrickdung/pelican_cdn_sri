@@ -42,6 +42,8 @@ CDN_SRI = {
 
 - This is the location of the cache file:
   - CDN_SRI_CACHE_FILENAME = './cdn-sri-cache/cache.json'
+  - You need to create a directory called 'cdn-sri-cache' in the same directory as your Peclian directory
+  - For first time use, you should set 'CDN_SRI_OVERWRITE_INITIAL_CACHE' to true or create an empty cache.json file
 
 - You need to set overwrite/update the initial cache to True.
   If there are any changes in the version of the web applications
