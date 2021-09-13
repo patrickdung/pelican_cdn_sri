@@ -69,3 +69,8 @@ The first '_JS' is there because the application name is called docs-searchbar.j
 The last '_JS' is specifying that we want to use the JavaScript code block.
 If you want to use the CSS of the docs-searchbar.js, then it would be:
 {{ DOCS_SEARCHBAR_JS_CSS }}.
+
+License
+-------
+Unless the folder itself contains a LICENSE stating otherwise, all the files
+distributed here are released under the GNU AFFERO GENERAL PUBLIC LICENSE.
