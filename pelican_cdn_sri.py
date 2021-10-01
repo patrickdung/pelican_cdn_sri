@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+# SPDX-License-Identifier: GPL-3.0
+#
+# Copyright (c) 2021 Patrick Dung
+
 from __future__ import unicode_literals
 import os, urllib.request, json
 

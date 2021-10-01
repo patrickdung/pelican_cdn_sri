@@ -1,6 +1,9 @@
-#!/usr/bin/python3
-
 # -*- coding: utf-8 -*-
+
+# SPDX-License-Identifier: GPL-3.0
+#
+# Copyright (c) 2021 Patrick Dung
+
 import os, urllib.request, json
 
 global cdn_api_url, cdn_api_url_parameters, cdn_result
