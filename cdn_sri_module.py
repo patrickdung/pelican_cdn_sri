@@ -4,9 +4,9 @@
 #
 # Copyright (c) 2021 Patrick Dung
 
-import os, urllib.request, json
+import urllib.request, json
 
-global cdn_api_url, cdn_api_url_parameters, cdn_result
+##global cdn_api_url, cdn_api_url_parameters, cdn_result
 
 cdn_api_url = {
     'cdnjs': 'https://api.cdnjs.com/libraries',

@@ -5,11 +5,12 @@
 # Copyright (c) 2021 Patrick Dung
 
 from __future__ import unicode_literals
-import os, urllib.request, json
+import json
 
-from pelican import signals, contents, generators, settings
-from pelican.contents import Content, Article
-from pelican.settings import DEFAULT_CONFIG
+##from pelican import signals, contents, generators, settings
+from pelican import signals
+##from pelican.contents import Content, Article
+##from pelican.settings import DEFAULT_CONFIG
 
 from .cdn_sri_module import query_cdn_api
 
